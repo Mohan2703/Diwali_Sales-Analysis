@@ -1,4 +1,4 @@
-# Diwali_Sales-Analysis
+# Sales-Analysis
 ## *(EDA)Exploratory Data Analysis Using Python*📊
 ###  **PROJECT LEARNINGS**
 
