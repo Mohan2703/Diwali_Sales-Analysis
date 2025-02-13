@@ -12,4 +12,4 @@ occupation, gender and age groups
 product categories and products, which can help
 to plan inventory and hence meet the demands
 
-### > [Project Preview](https://colab.research.google.com/drive/1-7ngTiZagvcTNFohCstjx6EptqxPA4YO?usp=sharing)
+### >👉 [Project Preview](https://colab.research.google.com/drive/1-7ngTiZagvcTNFohCstjx6EptqxPA4YO?usp=sharing)
